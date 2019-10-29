@@ -15,5 +15,6 @@ tdistance= tdistance - DiskQueue[j] + cur_pos;
 cur_pos=DiskQueue[j]; 
 } 
 cout<<"Total distance moved by the arm is::"<<tdistance<<endl;
+  cout<<"Project Complete";
 
 }
